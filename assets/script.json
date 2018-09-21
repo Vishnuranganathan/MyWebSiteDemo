@@ -1,0 +1,24 @@
+{
+    "login and adoption":{
+          "value":7
+    },
+     "security" :{
+           "value":9
+     },
+     "customisations and integrations":{
+         "value":10
+     },
+     "data quality":{
+
+         "value":11
+     },
+     "code quality and governance limit":{
+         "value":13
+     },
+     "lighting compliance":{
+         "value":8
+     }
+  
+
+
+}
